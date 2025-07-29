@@ -24,23 +24,6 @@ Este projeto é uma API RESTful desenvolvida em Java com Spring Boot como parte 
 - Testes automatizados com JUnit  
 - Separação entre camadas: Controller, Service, DTO e Model  
 
----
-
-## 📁 Estrutura do projeto
-
-src/
-├── main/
-│ ├── java/desafio/itau/springboot/
-│ │ ├── controller/ # Camada de entrada da API
-│ │ ├── model/ # Modelos de dados
-│ │ ├── model/dto/ # Objetos de transferência de dados (DTOs)
-│ │ ├── service/ # Regras de negócio
-│ │ └── SpringbootApplication.java
-│ └── resources/
-│ └── application.properties
-└── test/
-└── java/desafio/itau/springboot/
-
 
 ---
 
